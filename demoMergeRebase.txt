@@ -1,5 +1,5 @@
 First, content master is empty.
 Second, add text to check Merge
 Third, add text to check Rebase.
-Four, add text to check conflig when merge in branchToMerge.
-Four, add text to check conflig when merge in master
+Four, add text check conflig rebase in branchToRebase.
+Four, add text check conflig when merge in master
