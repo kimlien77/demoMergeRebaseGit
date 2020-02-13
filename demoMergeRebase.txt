@@ -5,3 +5,4 @@ Four, add text check conflig rebase in branchToRebase.
 Four, add text check conflig when merge in masterFour, add text to check conflig when rebase in branchToRebase.
 Four, add text to check conflig when rebase in master
 commit change here
+commit change here to cherry-pick
